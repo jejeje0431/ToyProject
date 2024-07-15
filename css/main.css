@@ -1,1 +1,5 @@
 /* 주석달기 */
+#container {  
+  width: 1080px;
+  margin: 20px auto;
+}
